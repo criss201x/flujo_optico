@@ -10,10 +10,14 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+anaconda_projects/
 dist/
 downloads/
 eggs/
 .eggs/
+
+.virtual_documents/
+
 lib/
 lib64/
 parts/
